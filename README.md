@@ -8,7 +8,6 @@ I've started my dev journey with web development by using node.js and express.js
 
 * 🌍  I'm based in Khobar
 * ✉️  You can contact me at [hadithinks@gmail.com](mailto:hadithinks@gmail.com)
-* 🧠  I'm learning Flutter & firebase!
 * 🤝  I'm open to collaborating on any project that works towards creativity!
 
 <a href="https://www.twitter.com/red_hadi" target="_blank" rel="noreferrer"><img
