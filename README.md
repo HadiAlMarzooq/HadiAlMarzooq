@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building amazing apps with react and react native!<br>🌱 I’m currently learning to build efficient and complex back-end operations using node.js and firebase. <br>💬 Ask me about python, I good at it, trust me 👨‍🔧<br>⚡ Fun fact, I love hand-ball 🤾‍♂️<br>🧩 I believe in creativity, and I think it should be a must.
+🔭 I’m currently working on building amazing apps with react and react native!<br>🌱 I’m currently learning to build efficient and complex back-end operations using node.js and firebase. <br>💬 Ask me about python, I'm good at it, trust me 👨‍🔧<br>⚡ Fun fact, I love hand-ball 🤾‍♂️<br>🧩 I believe in creativity, and I think it should be a must 🧩
 
 
 ## 🌐 Socials:
