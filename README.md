@@ -5,7 +5,7 @@
 
 ## 💫 About Me
 🔭 **Building Apps**: Currently working on amazing apps with React and React Native.  
-🌱 **Learning**: Advancing my skills in backend operations using Node.js and Firebase.  
+🌱 **Learning**: Advancing my skills in backend operations using Supabase as BaaS.  
 💬 **Python Expert**: Ask me about Python, I've got a knack for it!  
 ⚡ **Fun Fact**: I'm an avid handball enthusiast. 🤾‍♂️  
 🧩 **Philosophy**: Passionate about creativity as a key aspect of development.
