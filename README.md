@@ -69,8 +69,6 @@
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy-sigma-five.vercel.app/?username=HadiAlMarzooq&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HadiAlMarzooq&icon=0&color=6)](https://visitcount.itsvg.in)
