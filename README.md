@@ -1,6 +1,9 @@
 # Hadi Al-Marzooq - Full Stack Developer
 
+## ☕ Support Me
 
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hadialmarzooq)
  ![memoji 3](https://github.com/HadiAlMarzooq/HadiAlMarzooq/assets/79160189/3c8cf3df-3ee6-4047-ad3c-4591cba9cf36)
 
 ## 💫 About Me
