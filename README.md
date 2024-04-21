@@ -10,16 +10,9 @@
 
 ![memoji 3](https://github.com/HadiAlMarzooq/HadiAlMarzooq/assets/79160189/3c8cf3df-3ee6-4047-ad3c-4591cba9cf36)
 
-## 💫 About Me
-🔭 **Building Apps**: Currently working on amazing apps with React and React Native.  
-🌱 **Learning**: Advancing my skills in backend operations using Supabase as BaaS.  
-💬 **Python Expert**: Ask me about Python, I've got a knack for it!  
-⚡ **Fun Fact**: I'm an avid handball enthusiast. 🤾‍♂️  
-🧩 **Philosophy**: Passionate about creativity as a key aspect of development.
-
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hadi-al-marzooq) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@antisocialhadi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/red_hadi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hadi-al-marzooq) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/red_hadi) 
 
 
 ## 💻 My Tech Stack
