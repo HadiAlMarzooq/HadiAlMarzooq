@@ -1,10 +1,4 @@
-# Hadi Al-Marzooq - Full Stack Developer
-
-## ☕ Support Me
-
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/hadialmarzooq)
-
+# Hadi Al-Marzooq - Front-End Software Engineer @fathom.io
 
 
 
